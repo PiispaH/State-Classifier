@@ -1,0 +1,6 @@
+.*
+!.gitignore
+scratch.py
+build/
+*.egg-info
+*.csv
