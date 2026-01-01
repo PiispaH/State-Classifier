@@ -22,4 +22,4 @@ circuit act as the output of the QNN.
     pip install .
     ```
     to install all the dependencies.
-4. Run the `model.ipynb` file.
+4. Run all of the cells in the `model.ipynb` notebook.
