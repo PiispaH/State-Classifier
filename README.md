@@ -1,9 +1,9 @@
 # State-Classifier
 
-A quantum machine learning model for detecting if a diagonal bell state is separable or not.
+A quantum machine learning model for detecting if a Bell diagonal state is separable or not.
 
 ## Data generation
-Diagonal Bell states are created with randomised probability coefficients. The separability
+Bell diagonal states are created with randomised probability coefficients. The separability
 of the states are checked and saved as a labels for the data points. The features for the ML
 model are made by taking XX, YY and ZZ Pauli measurements of the states. The features are scaled to
 the interval [0, 2*Pi].
